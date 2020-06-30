@@ -47,7 +47,7 @@ cd "/Users/katemansfield/Dropbox/LSHTM/2020/Projects/14-covid-collateral/codelis
 use "aurum_codelist_af", clear
 describe
 drop term
-capture confirm numeric variable medcodeid
+capture confirm numeric variable medcodeid ali_variable
 duplicates drop
 
 merge 1:1 medcodeid using $allcodes, keep(match master) nogen
