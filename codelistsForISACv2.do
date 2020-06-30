@@ -1,3 +1,6 @@
+Kate's silly edits ... hooray!
+
+
 /*
 Bring all existing code lists together to create one text file to submit 
 alongside the ISAC
@@ -35,7 +38,6 @@ Codelist_ethnicity_aurum_sml
 */
 
 
-global allcodes "/Users/katemansfield/Dropbox/LSHTM/2020/Projects/14-covid-collateral/codelists/202006_codeBrowsers/CPRDAurumMedical"
 
 
 cd "/Users/katemansfield/Dropbox/LSHTM/2020/Projects/14-covid-collateral/codelists/fromJ"
