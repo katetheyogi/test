@@ -48,6 +48,15 @@ use "aurum_codelist_af", clear
 describe
 drop term
 capture confirm numeric variable medcodeid ali_variable
+
+
+ali is developing some code
+he is probably going to break it
+
+he thinks this is clever but it's actually stooooooopid! 
+
+
+
 duplicates drop
 
 merge 1:1 medcodeid using $allcodes, keep(match master) nogen
